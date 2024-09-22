@@ -3,3 +3,8 @@
 # to VS code on mac.
 .vscode
 
+# build directories
+builddir
+
+# any WADs
+.WAD

@@ -16,6 +16,7 @@ srcs = [
   'main.cpp',
   'WADLoader.cpp',
   'WADReader.cpp',
+  'Map.cpp',
 ]
 
 # sdl2_deps = declare_dependency(
